@@ -1,8 +1,8 @@
-export SUBSCRIPTION=c4a30c8e-eb68-47c8-87a6-c6ec0e7fc5dd                 # replace it with your subscription-id
-export RESOURCE_GROUP=acme-fitness-12-rg           # existing resource group or one that will be created in next steps
-export SPRING_APPS_SERVICE=acme-fitness-12   # name of the service that will be created in the next steps
-export LOG_ANALYTICS_WORKSPACE=acme-fitness-12-la-caak   # existing workspace or one that will be created in next steps
-export REGION=centralus                          # choose a region with Enterprise tier support
+export SUBSCRIPTION=0753feba-86f1-4242-aff1-27938fb04531                 # replace it with your subscription-id
+export RESOURCE_GROUP=jiec-rg           # existing resource group or one that will be created in next steps
+export SPRING_APPS_SERVICE=jiec-e   # name of the service that will be created in the next steps
+export LOG_ANALYTICS_WORKSPACE=jiec-la   # existing workspace or one that will be created in next steps
+export REGION=eastus                          # choose a region with Enterprise tier support
 
 export CART_SERVICE_APP="cart-service"
 export IDENTITY_SERVICE_APP="identity-service"

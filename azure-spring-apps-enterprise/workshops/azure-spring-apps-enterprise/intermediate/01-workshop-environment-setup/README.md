@@ -94,7 +94,7 @@ This env file comes with default values that were provided as part of arm templa
 Now, set the environment:
 
 ```shell
-source ./scripts/setup-env-variables.sh
+source ./azure-spring-apps-enterprise/workshops/azure-spring-apps-enterprise/scripts/setup-env-variables.sh
 ``` 
 
 Verify environment variables are set 
