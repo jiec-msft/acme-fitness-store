@@ -5,7 +5,8 @@
       "Method=GET"
     ],
     "filters": [
-      "StripPrefix=0"
+      "StripPrefix=0",
+      "LocalResponseCache=3m,1MB"
     ],
     "tags": [
       "catalog"
